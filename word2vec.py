@@ -1,12 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # COMS4054A & COMS7066A: Natural LanguageProcessing/Technology
-# 
-# ## Lab 1 (Word2Vec)
-# 
-# 
-# ## Livhuwani Mutshafa, (1717376) and Gloria Pucoe, (1477437)
+
 
 # In[19]:
 
